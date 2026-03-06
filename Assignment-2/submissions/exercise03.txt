@@ -1,0 +1,5 @@
+Sender public address (wallet A): mntG4jCFNcfHwgVUQjqpnAvwJyaeKCXkjo
+Recipient public address (wallet B): mgWLZySJjEyB2EeqGFwRJbYjDec83ar6hc
+Amount sent (sats): 2000
+Fee (sats): 800
+Broadcast txid: febeb3e3ddce0f1ade8abce843c5b8538ffe0ed378cb8be01fa62333f25603f7

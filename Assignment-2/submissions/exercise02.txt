@@ -1,0 +1,4 @@
+Public address: mntG4jCFNcfHwgVUQjqpnAvwJyaeKCXkjo
+Funding txid: d6cbc2e69566077fb0d9219ef644d04969c225bbe73cf2696c1e2954890db95b
+Amount received: 144441 sats
+Confirmed: false

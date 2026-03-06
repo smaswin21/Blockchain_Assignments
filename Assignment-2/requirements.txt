@@ -1,0 +1,3 @@
+bip-utils
+python-bitcoinlib
+requests
