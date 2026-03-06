@@ -32,10 +32,6 @@ Checks unspent outputs for a funded testnet address.
 python implementation/exercise-2.py <TESTNET_ADDRESS>
 ```
 
-```bash
-python implementation/exercise-2.py mntG4jCFNcfHwgVUQjqpnAvwJyaeKCXkjo
-```
-
 **Output:** `submissions/exercise02.txt`
 
 ---
@@ -49,7 +45,7 @@ python implementation/exercise-3.py <INDEX> <AMOUNT_SATS> <FEE_SATS>
 ```
 
 ```bash
-python implementation/exercise-3.py 0 2000 800
+python implementation/exercise-3.py <INDEX> 2000 800
 ```
 
 | Argument | Description |
@@ -69,4 +65,4 @@ implementation/
 submissions/
 ```
 
-Do **not** include `.secrets/`, mnemonic files, private keys, or virtual environment folders.
+I have **not** included `.secrets/`, mnemonic files, private keys, or virtual environment folders.
